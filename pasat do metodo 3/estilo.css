@@ -1,0 +1,6 @@
+body{background-image: url("fundo.mita.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
+h1{color: white; font-size: 50px; font-family:courier;}
+h2{color: white; font-size: 50px; font-family:courier;}
